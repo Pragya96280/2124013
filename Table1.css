@@ -1,0 +1,27 @@
+
+table{
+	width: 100%;
+}
+th,td{
+
+		paddind: 10px;
+  		border:1px solid Black;
+  		border-collapse: collapse;
+ 
+  	}
+
+  	tr:nth-child(even){
+  		background-color: #ddd;
+
+  	}
+  	tr:hover{
+  		background-color:gray;
+  	}
+  	tr:nth-child(1){
+  		font-size:20px;
+  	}
+  	th{
+  		background-color: #808080;
+
+  	}
+  	
